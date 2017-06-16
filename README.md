@@ -1,2 +1,2 @@
 # hello_world
-iam new to git_hub so it a demo
+iam new to git_hub so its a demo
